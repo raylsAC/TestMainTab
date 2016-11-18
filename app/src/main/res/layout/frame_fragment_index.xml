@@ -5,10 +5,65 @@
     android:gravity="center"
     android:orientation="vertical" >
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/main_tab_index"
-        android:textSize="18sp"
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp">
+
+        <TextView
+            android:id="@+id/port_info_info_btn"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:background="@drawable/shape_port_info_and_res_normal"
+            android:textSize="14sp"
+            android:textColor="@color/white"
+            android:text="@string/port_info_info_and_res"/>
+
+        <TextView
+            android:id="@+id/port_info_agent_btn"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:background="@color/blue"
+            android:textSize="14sp"
+            android:textColor="@color/white"
+            android:text="@string/port_info_agent"/>
+
+        <TextView
+            android:id="@+id/port_info_pda_btn"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:background="@color/blue"
+            android:textSize="14sp"
+            android:textColor="@color/white"
+            android:text="@string/port_info_pda"/>
+
+        <TextView
+            android:id="@+id/port_info_lineup_btn"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:background="@drawable/shape_port_lineup_normal"
+            android:textSize="14sp"
+            android:textColor="@color/white"
+            android:text="@string/port_info_lineup"/>
+
+    </LinearLayout>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/port_info_viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
         />
+
 </LinearLayout>
