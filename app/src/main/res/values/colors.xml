@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="global_bg_color_toast">#FF1F222A</color>
+
+    <color name="global_bg_color_transparent">#00000000</color>
+    <color name="global_bg_color_black_alpha2">#22000000</color>
+    <color name="global_bg_color_black_alpha3">#33000000</color>
+    <color name="global_bg_color_black_alpha4">#44000000</color>
+    <color name="global_bg_color_black_alpha8">#88000000</color>
+    <color name="global_bg_color_black">#FF000000</color>
+    <color name="global_bg_color_grey">#FF2B2F3A</color>
+    <color name="global_bg_color_grey_background">#FFF2F2F2</color>
+    <color name="global_bg_color_grey_background_less">#FFFbFbFb</color>
+    <color name="global_bg_color_grey_background_city">#F0F0F0</color>
+    <color name="global_bg_color_grey_more">#FFd2d2d2</color>
+    <color name="global_bg_color_white">#FFFFFFFF</color>
+    <color name="global_color_gray_divider_e2">#E2E2E2</color>
+    <color name="global_color_gray_divider_e5">#E5E5E5</color>
+    <color name="global_bg_color_select_f5">#f5f5f5</color>
+    <color name="global_bg_color_select_0c">#ff0c0c</color>
+    <color name="global_bg_color_select_33">#333333</color>
+    <color name="global_bg_color_white_hover">#FFE1E1E1</color>
+    <color name="global_bg_color_white_alpha2">#22FFFFFF</color>
+    <color name="global_bg_color_white_alpha8">#88FFFFFF</color>
+    <color name="global_bg_color_white_alpha12">#DDFFFFFF</color>
+    <color name="global_text_color_orange">#FFf08214</color>
+    <color name="global_bg_color_red">#FFdc0000</color>
+    <color name="global_bg_color_red_23">#FF2323</color>
+    <color name="global_bg_color_red_2">#FFFD4F4F</color>
+    <color name="global_text_color_2">#FF262F3C</color>
+    <color name="global_text_color_grey">#FF505050</color>
+    <color name="global_text_color_grey_less">#FF969696</color>
+    <color name="global_text_color_grey_99">#999999</color>
+    <color name="global_text_color_grey_66">#666666</color>
+    <color name="global_text_color_grey_1a">#1a1a1a</color>
+    <color name="global_text_color_grey_4c">#4c4c4c</color>
+    <color name="global_bg_color_green">#1dcd8d</color>
+    <color name="global_bg_color_orange_4f19">#ff4f19</color>
+    <color name="global_bg_color_orange_4e19">#f94e19</color>
+    <color name="global_bg_color_orange_672b">#ff672b</color>
+    <color name="global_bg_color_90ff">#4690ff</color>
+    <color name="global_bg_color_861a">#ff861a</color>
+    <color name="global_bg_color_green_more">#FF4BB8A0</color>
+    <color name="global_bg_border_color_grey">#FFC7C7C7</color>
+
+    <color name="global_text_gray_color_99">#999999</color>
+    <color name="global_text_gray_color_80">#808080</color>
+    <color name="global_text_orange_color_ff63">#ff632c</color>
+    <color name="global_text_orange_color_ff47">#ff470e</color>
+    <color name="global_text_orange_color_f156">#f1561a</color>
+    <color name="global_text_black_color_4d">#4D4D4D</color>
+    <color name="global_text_black_color_33">#333333</color>
+    <color name="global_text_black_color_4c">#4C4C4C</color>
+    <color name="global_text_black_color_cc">#cccccc</color>
+    <color name="global_text_black_color_24">#242424</color>
+    <color name="global_text_black_color_9822">#fd9822</color>
+
+    <color name="global_line_gray_color_e0">#e0e0e0</color>
+
+    <color name="common_empty_title_text">#FF707070</color>
+    <color name="common_empty_detail_text">#FFC1C1C1</color>
+    <color name="common_color_green">#1DCD8D</color>
+
+    <color name="common_title_bkg_color">#FFFFFF</color>
+    <color name="common_title_separate_tab_line_color">#FFC9C9C9</color> <!-- 顶部title和tab之间的分割线色值 -->
+    <color name="common_tag_text_normal_color">#FF545454</color>
+    <color name="common_tag_text_hover_color">#FFFB6F53</color>
+    <color name="gray_divider">#FFE2E2E2</color>
+    <color name="default_caltimer_text_color">#FFEF6F53</color>
+    <!-- main tab -->
+    <color name="main_tab_text_normal">#FF505050</color>
+    <color name="main_tab_text_hover">#FF4BC8A0</color>
+    <color name="transparent">#00000000</color>
+</resources>

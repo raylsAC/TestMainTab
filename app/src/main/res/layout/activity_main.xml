@@ -1,0 +1,39 @@
+<RelativeLayout xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <!-- fragment区域 -->
+
+    <FrameLayout
+        android:id="@+id/main_activity_content_ly"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/main_activity_content_spliy_ly"
+        android:background="@android:color/white" >
+    </FrameLayout>
+
+    <!-- 底部栏区域 -->
+
+    <com.example.zhangzk.testmaintab.view.TabLayout
+        android:id="@+id/main_activity_tab_ly"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal" />
+
+
+    <!-- 分隔线 -->
+
+    <View
+        android:id="@id/main_activity_content_spliy_ly"
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_above="@id/main_activity_tab_ly"
+        android:layout_gravity="bottom"
+        android:background="#FFC2C2C2" />
+
+
+
+</RelativeLayout>

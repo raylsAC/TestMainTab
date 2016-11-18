@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">" TestMainTab"</string>
+
+    <string name="main_tab_index">首页 </string>
+    <string name="main_tab_square">广场</string>
+    <string name="main_tab_home">小区宝</string>
+    <string name="main_tab_shopmall">闪购</string>
+    <string name="main_tab_user">我</string>
+</resources>
